@@ -36,6 +36,14 @@ yarn-error.log*
 # vercel
 .vercel
 
+# netlify
+.netlify
+
+# local db
+pawblis.db
+pawblis.db-wal
+pawblis.db-shm
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pawblis Dog Training Website
+
+A modern web application for **Pawblis Dog Training** — featuring a public showcase site, a client management dashboard with intake forms (based on the Spanish canine education consultation form), and an AI assistant powered by Claude.
 
 ## Getting Started
 
