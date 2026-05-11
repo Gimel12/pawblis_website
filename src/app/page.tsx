@@ -37,6 +37,7 @@ export default function Home() {
               <a href="#services" className="text-muted hover:text-primary transition-colors font-medium">Services</a>
               <a href="#why-us" className="text-muted hover:text-primary transition-colors font-medium">Why Us</a>
               <a href="#gallery" className="text-muted hover:text-primary transition-colors font-medium">Gallery</a>
+              <Link href="/blog" className="text-muted hover:text-primary transition-colors font-medium">Blog</Link>
               <a href="#contact" className="text-muted hover:text-primary transition-colors font-medium">Contact</a>
             </div>
             <div className="flex items-center gap-3">
@@ -654,6 +655,7 @@ export default function Home() {
                 <a href="#about" className="block text-white/60 hover:text-primary transition-colors">About Us</a>
                 <a href="#services" className="block text-white/60 hover:text-primary transition-colors">Services</a>
                 <a href="#why-us" className="block text-white/60 hover:text-primary transition-colors">Why Choose Us</a>
+                <Link href="/blog" className="block text-white/60 hover:text-primary transition-colors">Blog</Link>
                 <a href="#contact" className="block text-white/60 hover:text-primary transition-colors">Contact</a>
               </div>
             </div>

@@ -14,12 +14,14 @@ import {
   Menu,
   X,
   PawPrint,
+  PenSquare,
 } from "lucide-react";
 
 const navItems = [
   { href: "/dashboard", label: "Overview", icon: LayoutDashboard },
   { href: "/dashboard/clients", label: "Clients", icon: Users },
   { href: "/dashboard/clients/new", label: "New Client", icon: UserPlus },
+  { href: "/dashboard/blog", label: "Blog Posts", icon: PenSquare },
   { href: "/dashboard/chat", label: "AI Assistant", icon: MessageSquare },
 ];
 
